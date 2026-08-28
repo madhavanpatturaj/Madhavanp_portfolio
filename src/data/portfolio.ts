@@ -765,5 +765,5 @@ export const education = {
   degree: 'M.Sc. Software Systems',
   school: 'Bharathiar University · KG College of Arts and Science',
   period: 'Aug 2022 – May 2027',
-  note: 'Final-year, specializing in Data Science, Machine Learning and AI alongside core software-systems coursework. Aggregate 70.4%.',
+  note: 'Final-year, specializing in Data Science, Machine Learning and AI alongside core software-systems coursework.',
 }
