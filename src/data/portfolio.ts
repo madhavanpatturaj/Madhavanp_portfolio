@@ -196,7 +196,7 @@ export const experience: Experience[] = [
     slug: 'postulate-info-tech',
     company: 'Postulate Info Tech Pvt Ltd',
     role: 'Data Scientist — Machine Learning & AI',
-    period: 'Nov 2024 – Apr 2025',
+    period: 'Oct 2025 - Dec 2025',
     mode: 'On-site',
     summary:
       'My most transformative internship — the one that turned academic machine-learning knowledge into shipped, defensible work under a fast-moving, on-site team.',
