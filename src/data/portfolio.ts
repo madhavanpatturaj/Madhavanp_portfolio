@@ -4,7 +4,7 @@
 
 export const profile = {
   name: 'Madhavan P',
-  role: 'Data Science · Machine Learning · AI',
+  role: 'Software Engineer · AI/ML · Data Systems',
   location: 'Coimbatore, Tamil Nadu, India',
   email: 'madhavanpatturaj2708@gmail.com',
   phone: '+91 93453 27880',
