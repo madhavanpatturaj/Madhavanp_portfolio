@@ -16,7 +16,7 @@ export const profile = {
   hackerrankLabel: 'hackerrank.com/profile/madhavanpattura1',
   photo: '/images/madhavan.jpeg',
   resume: '/madhavan-resume.pdf',
-  tagline: 'I turn raw, messy data into models and products people actually use.',
+  tagline: 'Building intelligent applications from the ground up: engineering data systems, training advanced AI models, and shipping highly scalable software.',
   summary:
     'Final-year M.Sc. Software Systems student at KG College of Arts and Science, Coimbatore, specializing in Data Science, Machine Learning and Artificial Intelligence. I enjoy taking messy datasets, building accurate models or dashboards from them, and using AI tools to improve the quality of the result.',
 }
