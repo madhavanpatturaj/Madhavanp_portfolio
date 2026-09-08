@@ -16,7 +16,7 @@ export const profile = {
   hackerrankLabel: 'hackerrank.com/profile/madhavanpattura1',
   photo: '/images/madhavan.jpeg',
   resume: '/madhavan-resume.pdf',
-  tagline: 'I develop scalable software, engineer data systems, and build intelligent AI models.',
+  tagline: 'I developed scalable software, engineer data systems, and build intelligent AI models.',
   summary:
     'M.Sc. Software Systems student at KG College of Arts and Science, Coimbatore, specializing in Data Science, Machine Learning and Artificial Intelligence. I enjoy taking messy datasets, building accurate models or dashboards from them, and using AI tools to improve the quality of the result.',
 }
